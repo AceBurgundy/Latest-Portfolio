@@ -1,0 +1,21 @@
+.section-intro {
+    display: grid;
+    width: 100vw;
+    place-items: center;
+    padding-top: 7rem;
+}
+
+.section-intro-title {
+    font-weight: 500;
+    color: var(--primary);
+    font-size: 1.1rem;
+}
+
+.section-intro-title-cont {
+    font-weight: 500;
+    font-size: 2.5rem;
+    color: var(--text);
+    font-family: "Oswald";
+    line-height: 1;
+    text-transform: uppercase;
+}

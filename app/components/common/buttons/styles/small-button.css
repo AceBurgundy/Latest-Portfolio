@@ -1,0 +1,24 @@
+button {
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: var(--primary);
+    color: white;
+    border-radius: 0.625rem;
+    border: none;
+    cursor: pointer;
+}
+
+.button-small {
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+}   
+
+.button-default {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+.button-large {
+    padding: 1.1rem 2rem;
+    font-size: 1.25rem;
+}

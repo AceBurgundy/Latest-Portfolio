@@ -1,0 +1,29 @@
+.arrow-down-icon {
+    width: 3rem;
+}
+
+.line-down-icon {
+    width: 3rem;
+}
+
+.centered-icon {
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+.padded-icon-top-large {
+    padding-top: 7rem;
+}
+
+.padded-icon-small-vertical {
+    padding: 3rem 0;
+}
+
+.faded-icon-hard {
+    opacity: 0.4;
+}
+
+.faded-icon-light {
+    opacity: 0.5;
+}

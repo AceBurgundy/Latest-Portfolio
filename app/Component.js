@@ -195,7 +195,7 @@ export const css = (importMeta, cssPaths) =>
     const cssAlreadyLinked = document.querySelector(`link[href='${cssPath}']`);
 
     if (cssAlreadyLinked) {
-      console.warn(`CSS file already exists for path: ${cssPath}`);
+      // console.warn(`CSS file already exists for path: ${cssPath}`);
       return;
     }
 

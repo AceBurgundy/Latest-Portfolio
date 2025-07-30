@@ -1,0 +1,31 @@
+/* :root {
+    --text: #434850;
+    --background: #fffaeb;
+    --primary: #ff8400;
+    --secondary: #fff5d6;
+    --accent: #cf4307;
+}
+
+html[data-theme="dark"] {
+    --text: #fef9ec;
+    --background: #140f00;
+    --primary: #ff8400;
+    --secondary: #291f00;
+    --accent: #f86c30;
+} */
+
+:root {
+    --text: #434850;
+    --background: #f2f8f6;
+    --primary: #5eb39b;
+    --secondary: #92d5c2;
+    --accent: #66d0b2;
+}
+
+html[data-theme="dark"] {
+    --text: #eff5f3;
+    --background: #070d0b;
+    --primary: #4ba088;
+    --secondary: #2b6e5b;
+    --accent: #2f987a;
+}
